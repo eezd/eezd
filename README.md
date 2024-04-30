@@ -13,9 +13,9 @@
   <img alt="Nintendo Switch" src="https://img.shields.io/badge/Nintendo%20Switch-E95420?style=flat-square&logo=Nintendo-Switch&logoColor=ffffff" />
 </p>
 
-<p align="center">
+<h2 align="center">
   🛠 技术栈 | Tech Stack
-</p>
+</h2>
 
 <p align="center">
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=Vue.js&logoColor=ffffff" />
@@ -35,14 +35,17 @@
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-3E6E93?style=flat&logo=Mysql&logoColor=ffffff" />
 </p>
 
-<details>
-<summary>Click for GitHub Stats</summary>
-  
+<h2 align="center">Click for GitHub Stats</h2>
 <p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eezd&layout=compact" />
+  <img alt="EEZD's github stats" src="https://github-readme-stats.vercel.app/api?username=eezd&show_icons=true&theme=radical&include_all_commits=true" />
+  <img alt="EEZD's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eezd&theme=radical&layout=compact" />
 </p>
 
+<h2 align="center">
+Profile Views
+</h2>
+
 <p align="center">
-  <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=eezd&show_icons=true&bg_color=00000000" />
+<img alt="EEZD's Profile Views" src="https://count.getloli.com/get/@eezd.github.readme" />
 </p>
-</details>
+

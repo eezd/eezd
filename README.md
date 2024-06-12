@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Xiaomi 8" src="https://img.shields.io/badge/Xiaomi%208-FA6709?style=flat-square&logo=Xiaomi&logoColor=ffffff" />
+  <img alt="Note12Turbo" src="https://img.shields.io/badge/Xiaomi%208-FA6709?style=flat-square&logo=Xiaomi&logoColor=ffffff" />
   <img alt="Nintendo Switch" src="https://img.shields.io/badge/Nintendo%20Switch-E95420?style=flat-square&logo=Nintendo-Switch&logoColor=ffffff" />
 </p>
 

@@ -3,14 +3,15 @@
 </p>
 
 <p align="center">
-  <img alt="Windows10" src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff" />
+  <img alt="Windows11" src="https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff" />
   <img alt="Debian" src="https://img.shields.io/badge/Debian-11-E95420?style=flat-square&logo=debian&logoColor=ffffff" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff" />
 </p>
 
 <p align="center">
   <img alt="Note12Turbo" src="https://img.shields.io/badge/Note12Turbo-FA6709?style=flat-square&logo=Xiaomi&logoColor=ffffff" />
-  <img alt="Nintendo Switch" src="https://img.shields.io/badge/Nintendo%20Switch-E95420?style=flat-square&logo=Nintendo-Switch&logoColor=ffffff" />
+  <img alt="MECHREVO 15X Pro" src="https://img.shields.io/badge/Laptop-MECHREVO%2015X%20Pro-0071C5?style=flat-square&logo=laptop&logoColor=white" />
+<!--   <img alt="Nintendo Switch" src="https://img.shields.io/badge/Nintendo%20Switch-E95420?style=flat-square&logo=Nintendo-Switch&logoColor=ffffff" /> -->
 </p>
 
 <h2 align="center">
@@ -23,13 +24,15 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-eeeeee?style=flat&logo=Express&logoColor=000000" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="SCSS" src="https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white" />
 </p>
 
 <p align="center">
-  <img alt="Python3" src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=JAVA&logoColor=007396" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Python3" src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624" />
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-3E6E93?style=flat&logo=Mysql&logoColor=ffffff" />
